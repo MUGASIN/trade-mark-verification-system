@@ -9,4 +9,4 @@ frontend/build/
 
 # OS files
 .DS_Store
-Thumbs.db
+Thumbs.db"frontend/node_modules/" 
